@@ -1,0 +1,27 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  adress: MyText
+  check_in: MyString
+  timestamp: MyString
+  check_out: MyString
+  timestamp: MyString
+  adults: MyString
+  numeric: MyString
+  kids: MyString
+  numeric: MyString
+  user: MyString
+  references: MyString
+
+two:
+  adress: MyText
+  check_in: MyString
+  timestamp: MyString
+  check_out: MyString
+  timestamp: MyString
+  adults: MyString
+  numeric: MyString
+  kids: MyString
+  numeric: MyString
+  user: MyString
+  references: MyString

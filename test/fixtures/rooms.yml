@@ -1,0 +1,37 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  price: MyString
+  numeric: MyString
+  beds: MyString
+  integer: MyString
+  bathrooms: MyString
+  integer: MyString
+  garage: MyString
+  integer: MyString
+  breackfast: MyString
+  boolean: MyString
+  pets_welcome: MyString
+  boolean: MyString
+  images: MyString
+  text: MyString
+  retals: MyString
+  references: MyString
+
+two:
+  price: MyString
+  numeric: MyString
+  beds: MyString
+  integer: MyString
+  bathrooms: MyString
+  integer: MyString
+  garage: MyString
+  integer: MyString
+  breackfast: MyString
+  boolean: MyString
+  pets_welcome: MyString
+  boolean: MyString
+  images: MyString
+  text: MyString
+  retals: MyString
+  references: MyString
